@@ -1,0 +1,23 @@
+{
+  "name": "node-request",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliZolfaghar/node-request.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliZolfaghar/node-request/issues"
+  },
+  "homepage": "https://github.com/AliZolfaghar/node-request#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
